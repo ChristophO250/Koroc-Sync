@@ -1,0 +1,65 @@
+﻿Koroc-Sync - License Agreement (End User License Agreement)
+===========================================================
+
+Copyright (C) 2026 Christoph Olf. All rights reserved.
+
+This is a translation for convenience. The German version (LIZENZ.txt) is
+authoritative.
+
+1. Subject
+   Koroc-Sync ("the software") is protected by copyright. All rights remain
+   with the author. Installing the software grants you only the rights of use
+   described in this agreement.
+
+1a. Beta version
+   This version is a beta version. It has been developed with care but may
+   still contain errors. Please back up important data before cleaning up.
+   Feedback and bug reports are welcome.
+   Beta testers receive a free beta license valid for 30 days on request. It
+   can be renewed for another 30 days at a time via "Request renewal" in the
+   program; there is no entitlement to a renewal.
+
+2. Trial version
+   The software may be tested free of charge and without obligation for 14
+   days from the first start. After the trial period, only the system report
+   is available without a valid license; all other functions are unlocked
+   again with a license.
+   The trial version may be passed on unchanged and complete.
+
+3. License
+   Buying a license grants you a simple, non-transferable right to use the
+   software within the scope of the license type purchased. The license is
+   valid for one year from the date the license key was issued, unless a
+   different term was agreed when ordering. After it expires, only the system
+   report is available without a renewal; the software reminds you 30 days
+   in advance. License types:
+     - Single-user license: 1 PC
+     - Multi-PC license:    the ordered number of PCs
+     - Business license:    as agreed in the offer or invoice
+   The license key is valid only for the licensee named and only on the one
+   PC it was issued for (PC ID). Each key can be used only once; every
+   further PC (e.g. with the multi-PC license) receives its own key. For a new
+   PC or after reinstalling Windows you will receive a replacement key on
+   request. The key must not be published or passed on to third parties.
+   The software does not start if the system date is before 01/01/2025.
+
+4. Restrictions
+   Not permitted: selling, renting or lending the software or license keys;
+   circumventing or removing the license protection; decompiling or
+   modifying the software unless expressly permitted by law.
+
+5. Liability and warranty
+   The software has been developed with care. The cleanup deletes files
+   permanently - please back up important data first. The author is liable
+   without limitation for intent and gross negligence and for injury to life,
+   body or health. Otherwise liability for damage, data loss and
+   consequential damage is excluded to the extent permitted by law.
+   Statutory warranty rights remain unaffected.
+
+6. Trademarks
+   Product and company names mentioned belong to their respective owners.
+
+7. Final provisions
+   The law of the Federal Republic of Germany applies.
+
+Buy a license and feedback: korocsync@gmail.com
