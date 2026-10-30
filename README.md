@@ -10,7 +10,7 @@
 ![Sprachen](https://img.shields.io/badge/Sprache-Deutsch%20%7C%20English-555)
 ![Status](https://img.shields.io/badge/Status-Beta-ffb900)
 
-[**⬇ Download**](https://github.com/ChristophO250/Koroc-Sync/releases/latest) · [Funktionen](#funktionen) · [Ausgaben](#ausgaben) · [Für PC-Techniker](#für-pc-techniker) · [English](#english)
+[**⬇ Download**](https://github.com/ChristophO250/Koroc-Sync/releases/latest) · [Funktionen](#funktionen) · [Ausgaben](#ausgaben) · [Für PC-Techniker](#für-pc-techniker) · [Belohnung für Fehler](#mitmachen--mit-belohnung-) · [English](#english)
 
 ![Koroc-Sync](docs/social-preview.png)
 
@@ -82,11 +82,21 @@ Koroc-Sync ist auch für Elektro- und IT-Betriebe gedacht, die Kunden-PCs warten
 
 **Voraussetzungen:** Windows 10 oder 11. Für einige Funktionen (Dienste, Reparatur, Wiederherstellungspunkt) sind Administratorrechte nötig. Temperaturen und Lüfter liest das Programm optional über LibreHardwareMonitor.
 
-## Mitmachen
+## Mitmachen – mit Belohnung 🎁
 
-- **Fehler gefunden?** Im Programm „Fehler melden“ oder ein [Issue](https://github.com/ChristophO250/Koroc-Sync/issues) anlegen.
-- **Idee für eine Funktion?** Gern ebenfalls als Issue.
-- **Gefällt dir Koroc-Sync?** Ein ⭐ oben rechts hilft, dass mehr Leute das Programm finden.
+Jeder gefundene Fehler macht Koroc-Sync besser. Als Dankeschön gibt es:
+
+| Meldung | Belohnung |
+|---|---|
+| **Bestätigter Fehler** | Lizenz **+3 Monate** (ohne Lizenz: 3 Monate Professional) |
+| **Schwerer Fehler** (Absturz, falsche Löschung) **oder eine Idee, die umgesetzt wird** | **1 Jahr Professional** |
+| Auf Wunsch | Nennung als Helfer im [CHANGELOG](CHANGELOG.md) |
+
+**So geht's:** Im Programm auf der Seite **Systembericht → „Fehler melden“** klicken. Die E-Mail mit Version, Windows-Version und PC-ID wird automatisch vorbereitet, der Systembericht liegt in der Zwischenablage (Strg+V). Alternativ ein [Issue](https://github.com/ChristophO250/Koroc-Sync/issues) anlegen und die PC-ID per E-Mail nachreichen.
+
+<sub>Bedingungen: Belohnt wird die erste Meldung eines Fehlers, der sich nachstellen lässt. Die Entscheidung trifft der Entwickler. Keine Barauszahlung, kein Rechtsanspruch.</sub>
+
+**Gefällt dir Koroc-Sync?** Ein ⭐ oben rechts hilft, dass mehr Leute das Programm finden.
 
 > **Beta-Hinweis:** Diese Version kann noch Fehler enthalten. Bitte vor dem Bereinigen wichtige Daten sichern.
 
@@ -101,7 +111,7 @@ Koroc-Sync ist auch für Elektro- und IT-Betriebe gedacht, die Kunden-PCs warten
 - **Repair:** SFC, DISM, disk check, network reset, **crash analysis** (blue screens explained) and scheduled maintenance
 - **Report:** system report as a single **HTML file with charts**; the Professional edition adds a **customer report** with your own logo for IT service providers
 
-Editions: **Lite** (free), **Standard**, **Professional**, with a 14-day full trial. [Download the latest release](https://github.com/ChristophO250/Koroc-Sync/releases/latest).
+Editions: **Lite** (free), **Standard**, **Professional**, with a 14-day full trial. **Bug bounty:** every confirmed bug reported via "Report a bug" earns a 3-month licence extension, serious bugs or implemented ideas 1 year Professional. [Download the latest release](https://github.com/ChristophO250/Koroc-Sync/releases/latest).
 
 ---
 
