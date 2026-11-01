@@ -1,0 +1,67 @@
+﻿Koroc-Sync – Lizenzvertrag (Endbenutzer-Lizenzvereinbarung)
+===========================================================
+
+Copyright (C) 2026 Christoph Olf. Alle Rechte vorbehalten.
+
+1. Gegenstand
+   Koroc-Sync ("die Software") ist urheberrechtlich geschützt. Alle Rechte,
+   insbesondere Urheber- und Nutzungsrechte, verbleiben beim Autor. Durch
+   die Installation erhalten Sie nur die in diesem Vertrag beschriebenen
+   Nutzungsrechte.
+
+1a. Beta-Version
+   Diese Version ist eine Beta-Version. Sie wurde sorgfältig entwickelt, kann
+   aber noch Fehler enthalten. Bitte sichern Sie vor dem Bereinigen wichtige
+   Daten. Rückmeldungen und Fehlerberichte sind willkommen.
+   Beta-Tester erhalten auf Anfrage eine kostenlose Beta-Lizenz mit 30 Tagen
+   Laufzeit. Sie kann über "Verlängerung anfragen" im Programm jeweils um
+   weitere 30 Tage verlängert werden; ein Anspruch darauf besteht nicht.
+
+2. Testversion
+   Die Software darf 14 Tage ab dem ersten Start kostenlos und unverbindlich
+   getestet werden. Nach Ablauf des Testzeitraums steht ohne gültige Lizenz
+   nur noch der Systembericht zur Verfügung; alle anderen Funktionen werden
+   erst mit einer Lizenz wieder freigeschaltet. Die Testversion darf unverändert und
+   vollständig weitergegeben werden.
+
+3. Lizenz
+   Mit dem Kauf einer Lizenz erhalten Sie ein einfaches, nicht übertragbares
+   Recht zur Nutzung der Software im Umfang der erworbenen Lizenzart. Die
+   Lizenz gilt ein Jahr ab dem Ausstellungsdatum des Lizenzschlüssels, sofern
+   bei der Bestellung keine andere Laufzeit vereinbart wurde. Nach Ablauf steht
+   ohne Verlängerung nur noch der Systembericht zur Verfügung; die Software
+   erinnert 30 Tage vorher an die Verlängerung. Lizenzarten:
+     - Einzelplatzlizenz: 1 PC
+     - Mehrplatzlizenz:   die bestellte Anzahl PCs
+     - Firmenlizenz:      wie im Angebot bzw. in der Rechnung vereinbart
+   Der Lizenzschlüssel gilt nur für den darin genannten Lizenznehmer und
+   nur auf dem einen PC, für den er ausgestellt wurde (PC-Kennung). Jeder
+   Schlüssel ist nur einmal verwendbar; für jeden weiteren PC (z. B. bei der
+   Mehrplatzlizenz) wird ein eigener Schlüssel ausgestellt. Bei einem neuen PC
+   oder einer Neuinstallation von Windows erhalten Sie auf Anfrage einen
+   Ersatzschlüssel. Der Schlüssel darf nicht veröffentlicht oder an Dritte
+   weitergegeben werden.
+   Die Software startet nicht, wenn das Systemdatum vor dem 01.01.2025 liegt.
+
+4. Einschränkungen
+   Nicht gestattet sind: Verkauf, Vermietung oder Verleih der Software oder
+   von Lizenzschlüsseln; das Umgehen oder Entfernen des Lizenzschutzes;
+   Dekompilieren und Verändern der Software, soweit dies nicht gesetzlich
+   ausdrücklich erlaubt ist.
+
+5. Haftung und Gewährleistung
+   Die Software wurde mit Sorgfalt entwickelt. Die Bereinigung löscht Dateien
+   endgültig – bitte vor der Nutzung wichtige Daten sichern. Der Autor haftet
+   unbeschränkt bei Vorsatz und grober Fahrlässigkeit sowie bei Verletzung
+   von Leben, Körper oder Gesundheit. Im Übrigen ist die Haftung für Schäden,
+   Datenverlust und Folgeschäden ausgeschlossen, soweit gesetzlich zulässig.
+   Die gesetzlichen Gewährleistungsrechte bleiben unberührt.
+
+6. Marken
+   Genannte Produkt- und Firmennamen gehören ihren jeweiligen Inhabern.
+
+7. Schlussbestimmungen
+   Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung
+   unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+Lizenz erwerben und Rückmeldungen: korocsync@gmail.com
