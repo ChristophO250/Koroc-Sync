@@ -77,7 +77,7 @@ Nach der Installation laufen **14 Tage alle Funktionen**. Danach bleibt Koroc-Sy
 | Akku, RAM-Test, Lüftertest, Laufwerk-Tempo, Ping-Langzeittest, Programme, Dienste, Updates | | ✅ | ✅ |
 | Netzwerk-Scanner, KNX-IP, Reparatur, Absturz-Analyse, Registry, Treiber, geplante Wartung, Kundenbericht | | | ✅ |
 
-Lizenzen gelten ein Jahr und werden direkt im Programm bestellt. Während der Beta gibt es kostenlose Beta-Lizenzen. Bedingungen: [LIZENZ.txt](LIZENZ.txt) · [LICENSE-EN.txt](LICENSE-EN.txt)
+Während der Beta gibt es kostenlose Beta-Lizenzen. Bedingungen: [LIZENZ.txt](LIZENZ.txt) · [LICENSE-EN.txt](LICENSE-EN.txt)
 
 ---
 
@@ -122,7 +122,7 @@ Koroc-Sync is a maintenance and diagnostics tool for Windows 10 and 11, made for
 | 🧹 | Clean-up and repair: temp files, SFC/DISM, crash analysis, scheduled maintenance |
 | 🧾 | Reports: HTML report with charts, customer report with your own logo |
 
-Free **Lite** edition after a 14-day full trial · German and English · [⬇️ Download](https://github.com/ChristophO250/Koroc-Sync/releases/latest)
+German and English · [⬇️ Download](https://github.com/ChristophO250/Koroc-Sync/releases/latest)
 
 ---
 
